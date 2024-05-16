@@ -32,3 +32,11 @@ section#telefone{
     width: 349px;
     background: url('../imagens/png-transparent-mobile-phone-display-blank-mobile-phone-white-phone.png') no-repeat;
 }
+
+iframe#tela{
+    position: relative;
+    top: 62px;
+    left: 10px;  
+    width: 330px; 
+    height: 584px;
+}
